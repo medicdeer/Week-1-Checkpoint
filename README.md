@@ -4,8 +4,8 @@
 - Operating system:
 - Editor: VSCode
 - Git version: Version 2.56.0.windows.2
-- Git name: (paste the output of git config user.name)
-- Git email: (paste the output of git config user.email)
+- Git name: Pamela Campbell
+- Git email: gumiwaifu56@gmail.com
 
 ## ACP log
 | # | What I changed | Commit message | Branch |
