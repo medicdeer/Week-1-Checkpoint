@@ -3,7 +3,7 @@
 ## My setup
 - Operating system:
 - Editor: VSCode
-- Git version: (paste the output of git --version)
+- Git version: Version 2.56.0.windows.2
 - Git name: (paste the output of git config user.name)
 - Git email: (paste the output of git config user.email)
 
