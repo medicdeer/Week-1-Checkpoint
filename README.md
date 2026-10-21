@@ -12,4 +12,4 @@
 |---|----------------|----------------|--------|
 | 1 | Made the repo on GitHub with a README | Initial commit | main |
 | 2 | Created my first page | Add first page | main |
-| 3 | ... | ... | main |
+| 3 | Created index.html | add h2 and paragraph to index | main |
