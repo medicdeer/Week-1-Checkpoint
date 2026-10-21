@@ -2,7 +2,7 @@
 
 ## My setup
 - Operating system:
-- Editor:
+- Editor: VSCode
 - Git version: (paste the output of git --version)
 - Git name: (paste the output of git config user.name)
 - Git email: (paste the output of git config user.email)
