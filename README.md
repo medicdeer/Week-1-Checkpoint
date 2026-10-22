@@ -6,6 +6,7 @@
 - Git version: Version 2.56.0.windows.2
 - Git name: Pamela Campbell
 - Git email: gumiwaifu56@gmail.com
+- https://medicdeer.github.io/Week-1-Checkpoint/
 
 ## ACP log
 | # | What I changed | Commit message | Branch |
