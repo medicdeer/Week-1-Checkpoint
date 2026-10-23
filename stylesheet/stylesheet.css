@@ -1,1 +1,35 @@
 
+h1 {color:mediumpurple;
+    font-family: monospace;
+   }
+h1 {background-color:lavender}
+
+h2 {color: indigo;
+   font-family:monospace;
+   background-color:mediumpurple;}
+
+h3 {color: indigo;
+   font-family:monospace;
+   background-color:mediumpurple;}
+
+body {background: lightblue;}
+
+p { color:indigo;
+  font-family:monospace;}
+a:visited {
+  color:mediumpurple;
+}
+
+a:hover {
+  color:orchid;
+  text-decoration-style:wavy;
+}
+
+a:active {
+  color:indigo; 
+}
+
+  li {
+  color:mediumpurple;
+   font-family: monospace;
+}
