@@ -19,3 +19,4 @@
 | 6 | Added my goals | Add my goals section | main |
 | 7 | Added a site I like | Added a website link | main |
 | 8 | Added an image | Add an image | main |
+| 9 | Added a stylesheet | Added a stylesheet | main |
